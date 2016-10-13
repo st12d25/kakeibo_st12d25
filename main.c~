@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main()
+{
+	int i;
+<<<<<<< HEAD
+	int earning[5];
+
+	for(i=0; i<5; i++)
+	{
+		scanf("%d",&earning[i]);
+=======
+	int payments[5];
+	
+	for(i=0; i<5; i++){
+		scanf("%d",&payments[i]);
+>>>>>>> master
+	}
+}
